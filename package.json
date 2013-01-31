@@ -8,8 +8,8 @@
   "description": "Adds HAML Coffee support to stitch",
   "main": "lib/stitch-haml-coffee",
   "engines": {
-    "node": "0.8.15",
-    "npm":  "1.1.6"
+    "node": ">= 0.8.15",
+    "npm":  ">= 1.1.6"
   },
   "dependencies" : {
     "stitch" : ">= 0.3.3",
