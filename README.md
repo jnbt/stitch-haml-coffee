@@ -8,7 +8,7 @@ Adds [Haml Coffee](https://github.com/netzpirat/haml-coffee) support for [Stitch
 Haml Coffee is available in NPM and can be installed with:
 
 ```bash
-$ npm install haml-coffee
+$ npm install stitch-haml-coffee
 ```
 
 ## Usage
