@@ -26,7 +26,7 @@ bundle.compile (err, source) ->
     console.log 'Compiled!'
 ```
 
-Heavily inspired by [stitch-jade](http://https://github.com/kaptajnen/stitch-jade).
+Heavily inspired by [stitch-jade](https://github.com/kaptajnen/stitch-jade).
 
 ## Authors
 
