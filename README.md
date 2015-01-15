@@ -1,6 +1,8 @@
 stitch-haml-coffee
 ===========
 
+[![NPM](http://img.shields.io/npm/v/stitch-haml-coffee.svg)](https://www.npmjs.com/package/stitch-haml-coffee)
+
 Adds [Haml Coffee](https://github.com/netzpirat/haml-coffee) support for [Stitch](https://github.com/sstephenson/stitch).
 
 ## Installation
